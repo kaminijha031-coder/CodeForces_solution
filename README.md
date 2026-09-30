@@ -1,8 +1,5 @@
 # CodeForces_solution
 My Codeforces problem-solving journey and competitive programming practice using C++.
-# Codeforces-Solutions
-
-A collection of my **Codeforces problem-solving** and competitive programming practice using **C++**.
 
 ## 🔗 My Codeforces Profile
 
